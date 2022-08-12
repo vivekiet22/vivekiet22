@@ -17,7 +17,7 @@
 - I am a hands-on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and self-taught Learner  from India
 
 - 🔭 I’m currently working on projects based on MERN stack.
-- :zap: In my free time, I solve problems solve problems on Data Structures and Algorithms on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Data Structures and Algorithms on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: </br>
   <a href="https://www.linkedin.com/in/vivek-maddeshiya-b08a5b175/"><img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 - 💬 Ask me about Anything <a href="https://github.com/vivekiet22/vivekiet22/issues">here</a>
