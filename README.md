@@ -57,6 +57,7 @@
 
 ![Vivek's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vivekmaddheshiya205)
 
+![image](https://leetcode-stat-api.herokuapp.com/vivekiet22/theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekiet22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
