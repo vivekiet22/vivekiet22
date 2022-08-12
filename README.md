@@ -55,6 +55,9 @@
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekiet22&show_icons=true&theme=onedark)
 
 
+![Vivek's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vivekmaddheshiya205)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekiet22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
