@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://vivekiet22.github.io"><img width="30%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" /></a><a href="https://vivekiet22.github.io"><img width="15%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/2J3VPYmnhO2jjKAX0X/giphy.gif" /></a></p>
+<p align="center"><a href="#"><img width="30%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" /></a><a href="#"><img width="15%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/2J3VPYmnhO2jjKAX0X/giphy.gif" /></a></p>
 
 <div align="center" id="badges"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 
@@ -59,7 +59,6 @@
 
 ![image](https://leetcode-stat-api.herokuapp.com/vivekiet22/theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekiet22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -118,6 +117,9 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekiet22)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekiet22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
