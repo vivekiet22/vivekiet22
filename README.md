@@ -21,7 +21,8 @@
 - 📫 How to reach me: </br>
   <a href="https://www.linkedin.com/in/vivek-maddeshiya-b08a5b175/"><img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 - 💬 Ask me about Anything <a href="https://github.com/vivekiet22/vivekiet22/issues">here</a>
-- ⚡ Fun fact: I don't know everything about anything
+- ⚡ Fun fact:  I am an Engineer :)
+
 
 
 
@@ -43,7 +44,7 @@
 
    
   </div>
-  
+  I don't know everything about anything
   
  ---
 
