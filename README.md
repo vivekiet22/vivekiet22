@@ -44,7 +44,7 @@
 
    
   </div>
-  I don't know everything about anything
+
   
  ---
 
@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to cook. My signature dish is homemade Sandwich and Maggie.
+- ⚡ Fun fact: I love to cook. My signature dish is homemade Sandwich and Maggie. 
+  I don't know everything about anything
 
 
 <div>
