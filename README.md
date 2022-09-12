@@ -57,9 +57,8 @@
 
 
 ![Vivek's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vivekmaddheshiya205)
-
-
-
+</br>
+<img src="https://leetcode-stat-api.herokuapp.com/vivekiet22">
 
 
 
@@ -72,7 +71,7 @@
 https://www.sitepoint.com/github-profile-readme/
 
 
-![image](https://leetcode-stat-api.herokuapp.com/vivekiet22/theme=dark)
+![image](https://leetcode-stat-api.herokuapp.com/vivekiet22/)
 
 
 
